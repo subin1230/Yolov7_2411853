@@ -6,7 +6,7 @@ import torch.optim as optim
 from torchvision import datasets, transforms
 from torch.optim.lr_scheduler import StepLR
 import pandas as pd
-
+'''test for '''
 
 data = {
     '이름': ['박수빈'],
