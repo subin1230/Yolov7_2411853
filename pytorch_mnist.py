@@ -11,7 +11,7 @@ import pandas as pd
 data = {
     '이름': ['박수빈'],
     '학번': [2411853],
-    '학과': ['인공지능공학부']
+    '학과': ['인공지능공학부!']
 }
 
 df = pd.DataFrame(data)
